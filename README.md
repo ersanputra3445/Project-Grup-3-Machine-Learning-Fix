@@ -46,4 +46,8 @@ This project aims to analyze the condition of postpartum maternal health based o
 - `Jurnal Output `
 
 
+## Picture
+
+![Screenshot 2025-06-06 125903](https://github.com/user-attachments/assets/c1e931be-45cd-4d70-92aa-9597766525a7)
+
 
