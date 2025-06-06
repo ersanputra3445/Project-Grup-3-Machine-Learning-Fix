@@ -36,6 +36,6 @@ This project aims to analyze the condition of postpartum maternal health based o
   
 ## Dataset Used
 
-- source : ("https://opendata.jabarprov.go.id/id")
-- source 2 : [Maternal Health Risk Data – Kaggle]("https://www.kaggle.com/datasets/csafrit2/maternal-health-risk-data")
+- [Open Data Jabar – Pemerintah Provinsi Jawa Barat](https://opendata.jabarprov.go.id/id)  
+- [Maternal Health Risk Data – Kaggle](https://www.kaggle.com/datasets/csafrit2/maternal-health-risk-data)
 
