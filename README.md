@@ -48,6 +48,8 @@ This project aims to analyze the condition of postpartum maternal health based o
 
 ## Picture
 
+![00000073319_ErsanIvandaPutra_Presentasi_UAS_IF540L](https://github.com/user-attachments/assets/a58e9d2b-129b-44ac-a0fa-9f025d6a954d)
+
 ![Screenshot 2025-06-06 125903](https://github.com/user-attachments/assets/c1e931be-45cd-4d70-92aa-9597766525a7)
 
 
