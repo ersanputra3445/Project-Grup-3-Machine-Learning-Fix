@@ -38,3 +38,12 @@ This project aims to analyze the condition of postpartum maternal health based o
 - [Open Data Jabar – Pemerintah Provinsi Jawa Barat](https://opendata.jabarprov.go.id/id)  
 - [Maternal Health Risk Data – Kaggle](https://www.kaggle.com/datasets/csafrit2/maternal-health-risk-data)
 
+## Files Included
+
+- `Project Grup 3 Machine Learning.ipynb` – Jupyter Notebook with data preparation and clustering   
+- `README.md` – Project documentation  
+- `power_point` – Visual outputs (e.g., cluster scatter plots)
+- `Jurnal Output `
+
+
+
